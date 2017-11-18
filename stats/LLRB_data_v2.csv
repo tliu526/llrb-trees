@@ -1,0 +1,24 @@
+500000,Add,Contains,Remove,Height
+RB Tree,368.5,220.5,369.75,22
+LLRB,295,215,526.75,26
+Binary Search Tree,256.75,299,278.25,44
+Splay Tree,452.25,711.25,492,50
+,,,,
+1000000,Add,Contains,Remove,Height
+RB Tree,816,539.75,905.5,23
+LLRB,754.25,506.75,1342.25,27
+Binary Search Tree,619.75,602.75,721.25,47
+Splay Tree,1049,1807.5,1242,51
+,,,,
+,,,,
+2000000,Add,Contains,Remove,Height
+RB Tree,2086.75,1311,1941,25
+LLRB,1781.75,1241,3133.25,29
+Binary Search Tree,1615.75,1484.75,1848.25,51
+Splay Tree,2552.5,4394.5,3072.25,61
+,,,,
+,Line Counts,,,
+RB Tree,489,,,
+RB Tree + Wrapper,570,,,
+LLRB w/o Iterator,277,,,
+LLRB ,364,,,
