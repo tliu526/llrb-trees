@@ -4,6 +4,7 @@ Source for experiments in Left-leaning Red Black Tree for the structure
 package.
 
 `doc` - papers relating to left-leaning red-black trees
+
 `structure` - source for existing red black tree
 
 This version supports:
